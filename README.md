@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ali-pk (Muhammad Ali Tahir)
-- 👀 I’m interested in Java (back-end-web-development)
+- 👋 Hi, I’m Muhammad Ali Tahir (@ali-pk)
+- 👀 I’m interested in Java (Backend Development) and always eager to learn new skills.
 - 🌱 I’m currently advancing my skills in java.
-- 💞️ I’m looking to collaborate as a junior java developer
+- 💞️ I’m currently working as Java Developer at Evamp & Saanga.
 - 📫 How to reach me email: mali.thr09@gmail.com
 - 💼 linkedin Profile: linkedin.com/in/muhammad-ali-4994501b1
